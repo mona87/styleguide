@@ -1,0 +1,22 @@
+{
+    "id": "colors",
+    "name": "Colors",
+    "scripts": ["colors.js"],
+    "items": {
+        "intro": ["Huge have two main colors: Magenta and Black. Additional Blue might be found on slides or t-shirts."],
+        "colors": [
+            {
+                "className": "primary-color-one"
+            },
+            {
+                "className": "primary-color-two"
+            },
+            {
+                "className": "primary-color-three"
+            },
+            {
+                "className": "primary-color-four"
+            }
+        ]
+    }
+}
